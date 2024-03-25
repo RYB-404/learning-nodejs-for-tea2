@@ -1,0 +1,23 @@
+{
+  "name": "@ryb-404/learning-nodejs-for-tea2",
+  "version": "1.0.0",
+  "description": "learning nodejs for tea 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RYB-404/learning-nodejs-for-tea2.git"
+  },
+  "keywords": [
+    "RYB-404"
+  ],
+  "author": "RYB-404",
+  "dependencies": {},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RYB-404/learning-nodejs-for-tea2/issues"
+  },
+  "homepage": "https://github.com/RYB-404/learning-nodejs-for-tea2#readme"
+}
